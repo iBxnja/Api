@@ -1,0 +1,10 @@
+.fondo{
+    background-image: url(../Multimedia/Fondo1.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

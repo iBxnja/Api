@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "nombre": "Hada Madre",
+        "estado": "Desaparecido",
+        "historia": "Salvador Del Bosque",
+        "raza":"Hada"
+    },
+    {
+        "id":2,
+        "nombre": "Nox/Bruja Oscura",
+        "estado": "Desaparecido",
+        "historia": "Desconocida",
+        "raza":"Bruja Clase 1"
+    },
+    {
+        "id":3,
+        "nombre": "Lunox/Bruja Oscura",
+        "estado": "Existente",
+        "historia": "Desconocida",
+        "raza":"Bruja Clase 1"
+    },
+    {
+        "id":4,
+        "nombre": "Sullivan Heroe",
+        "estado": "Existente",
+        "historia": "Salvador De La Aldea",
+        "raza":"Humano Clase A"
+    },
+    {
+        "id":5,
+        "nombre": "Gusion",
+        "estado": "Existente",
+        "historia": "Joven Aprendiz",
+        "raza":"Humano Clase D"
+    },
+    {
+        "id":6,
+        "nombre": "Hans",
+        "estado": "Existente",
+        "historia": "Joven Aprendiz",
+        "raza":"Humano Clase D"
+    }
+]
